@@ -1,0 +1,4 @@
+database.db
+.venv
+__pycache__
+update_to_remote_server.bat
